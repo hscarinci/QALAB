@@ -5,9 +5,7 @@ public class Ejercicio1 {
     public static void main(String[] args) {
         //Ejercicio 1
         //Declaracion
-        int DIVISION1;
-        int C;
-        int B;
+        int DIVISION1,C,B;
         //Inicailiazar o asiganacion
         C = -3;
         B = 1;
